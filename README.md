@@ -1,5 +1,5 @@
 # E05-Input
-
+Complete the assignement that allow mouse to show current x and y, also allow spaceship moved by WASD
 This is an exercise to help you become accustomed to how Godot treats user input.
 
 Instructions are as follows:
